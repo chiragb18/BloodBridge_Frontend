@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/Blood-Bank-AI-Frontend",
+  "outputDirectory": "dist/Blood-Bank-AI-Frontend/browser",
   "routes": [
     {
       "src": "/(.*)",
@@ -8,3 +8,4 @@
     }
   ]
 }
+
